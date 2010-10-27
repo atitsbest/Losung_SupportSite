@@ -225,6 +225,26 @@ header > h2 {
 	color: #b8b8b8;
 }
 
+footer > h1 {
+	font: 30pt "Helvetica Neue", Arial, sans-serif;
+	font-weight: bold;
+	color: #363b3e;
+	text-align: center;
+	margin-bottom:1em;
+}
+
+.point > h3 {
+	font: 13pt "Helvetica Neue", Arial, sans-serif;
+	color: #363b3e;
+	font-weight: bold;
+	line-height:1em;
+}
+
+.point > p {
+	font: 11pt/140% "Helvetica Neue", Arial, sans-serif;
+	color: #b8b8b8;
+	margin-top:.5em;
+}
 
 
 
