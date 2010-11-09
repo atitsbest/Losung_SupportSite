@@ -215,22 +215,24 @@ button {  width: auto; overflow: visible; }
     Author: 
  */
 header > h1 {
-	font: 48pt "Helvetica Neue", Arial, sans-serif;
+	font: 108px "Helvetica Neue", Arial, sans-serif;
 	font-weight: bold;
 	color: #363b3e;
+	letter-spacing: -0.05em;
 }
 
 header > h2 {
-	font: 13pt Georgia, serif;
+	font: 30px Georgia, serif;
 	color: #b8b8b8;
 }
 
 footer > h1 {
-	font: 30pt "Helvetica Neue", Arial, sans-serif;
+	font: 30px "Helvetica Neue", Arial, sans-serif;
 	font-weight: bold;
 	color: #363b3e;
 	text-align: center;
 	margin-bottom:1em;
+	letter-spacing: -0.05em;
 }
 
 .point > h3 {
@@ -266,7 +268,7 @@ body > footer > p {
 body > footer > p > a { color: #a5a5a5; text-decoration: none; }
 body > footer > p > a:visited, 
 body > footer > p > a:active { color: #a5a5a5; }
-body > footer > p > a.hover { color: #b42a25; }
+body > footer > p > a:hover { color: #b42a25; }
 
 
 
