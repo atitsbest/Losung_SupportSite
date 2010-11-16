@@ -233,6 +233,12 @@ body {
 	 border-radius: 5px;
 }
 
+.container_12.main #follow_me_on_twitter {
+	position: absolute;
+	left: 900px;
+	margin-top: -57px;
+}
+
 header > h1 {
 	font: 108px "Helvetica Neue", Arial, sans-serif;
 	font-weight: bold;
