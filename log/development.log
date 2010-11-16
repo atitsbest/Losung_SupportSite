@@ -8308,3 +8308,69 @@ ActionController::RoutingError (No route matches "/js/script.js"):
   
 
 Rendered /Users/atitsbest/.rvm/gems/ruby-1.9.2-p0/gems/actionpack-3.0.0/lib/action_dispatch/middleware/templates/rescues/routing_error.erb within rescues/layout (0.9ms)
+
+
+Started GET "/" for 127.0.0.1 at 2010-11-16 16:23:48 +0100
+  Processing by HomeController#index as HTML
+Rendered home/index.html.erb within layouts/application (1.8ms)
+Completed 200 OK in 7ms (Views: 6.6ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/js/plugins.js?v=1" for 127.0.0.1 at 2010-11-16 16:23:48 +0100
+
+ActionController::RoutingError (No route matches "/js/plugins.js"):
+  
+
+Rendered /Users/atitsbest/.rvm/gems/ruby-1.9.2-p0/gems/actionpack-3.0.0/lib/action_dispatch/middleware/templates/rescues/routing_error.erb within rescues/layout (1.1ms)
+
+
+Started GET "/js/script.js?v=1" for 127.0.0.1 at 2010-11-16 16:23:48 +0100
+
+ActionController::RoutingError (No route matches "/js/script.js"):
+  
+
+Rendered /Users/atitsbest/.rvm/gems/ruby-1.9.2-p0/gems/actionpack-3.0.0/lib/action_dispatch/middleware/templates/rescues/routing_error.erb within rescues/layout (1.2ms)
+
+
+Started GET "/" for 127.0.0.1 at 2010-11-16 16:23:54 +0100
+  Processing by HomeController#index as HTML
+Rendered home/index.html.erb within layouts/application (1.7ms)
+Completed 200 OK in 7ms (Views: 6.2ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/js/plugins.js?v=1" for 127.0.0.1 at 2010-11-16 16:23:54 +0100
+
+ActionController::RoutingError (No route matches "/js/plugins.js"):
+  
+
+Rendered /Users/atitsbest/.rvm/gems/ruby-1.9.2-p0/gems/actionpack-3.0.0/lib/action_dispatch/middleware/templates/rescues/routing_error.erb within rescues/layout (5.5ms)
+
+
+Started GET "/js/script.js?v=1" for 127.0.0.1 at 2010-11-16 16:23:54 +0100
+
+ActionController::RoutingError (No route matches "/js/script.js"):
+  
+
+Rendered /Users/atitsbest/.rvm/gems/ruby-1.9.2-p0/gems/actionpack-3.0.0/lib/action_dispatch/middleware/templates/rescues/routing_error.erb within rescues/layout (0.9ms)
+
+
+Started GET "/" for 127.0.0.1 at 2010-11-16 16:23:59 +0100
+  Processing by HomeController#index as HTML
+Rendered home/index.html.erb within layouts/application (1.8ms)
+Completed 200 OK in 7ms (Views: 6.5ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/js/script.js?v=1" for 127.0.0.1 at 2010-11-16 16:23:59 +0100
+
+ActionController::RoutingError (No route matches "/js/script.js"):
+  
+
+Rendered /Users/atitsbest/.rvm/gems/ruby-1.9.2-p0/gems/actionpack-3.0.0/lib/action_dispatch/middleware/templates/rescues/routing_error.erb within rescues/layout (1.6ms)
+
+
+Started GET "/js/plugins.js?v=1" for 127.0.0.1 at 2010-11-16 16:23:59 +0100
+
+ActionController::RoutingError (No route matches "/js/plugins.js"):
+  
+
+Rendered /Users/atitsbest/.rvm/gems/ruby-1.9.2-p0/gems/actionpack-3.0.0/lib/action_dispatch/middleware/templates/rescues/routing_error.erb within rescues/layout (2.2ms)
